@@ -1,12 +1,12 @@
 module.exports.config = {
-  name: "couple",
+  name: "coupledp",
   version: "1.0.0",
   hasPermssion: 0,
   credits: "PREM BABU",
   description: "Couple Dp photos",
   usePrefix: true,
   commandCategory: "Random-IMG",
-  usages: "cpl dp",
+  usages: "cpldp",
   cooldowns: 2,
   dependencies: {
     "request":"",
