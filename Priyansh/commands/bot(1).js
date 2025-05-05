@@ -99,8 +99,8 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
      if ((event.body.toLowerCase() == "ganda") || (event.body.toLowerCase() == "ganda bot")) {
        return api.sendMessage("️Tu ganda tera  pura khandan Ganda 😒😐:))))", threadID);
      };
-    if ((event.body.toLowerCase() == "ashii") || (event.body.toLowerCase() == "ayehsa")) {
-       return api.sendMessage("hye AYESHA ka name sunty hi kuch kuch hony lgta hai", threadID);
+    if ((event.body.toLowerCase() == "🍁") || (event.body.toLowerCase() == "🤌")) {
+       return api.sendMessage("😻  ✄𝐘𝐞🍁𝐌𝟯𝐑𝐢🥀 𝐩𝐘𝐚𝐑𝐢🥀𝗝𝐚𝐚𝐍 🌬️☞🌏 𝐉aȠȠaƬ🥀 😻🥀 𝐁𝐚𝐁𝐔🥀𝐊𝗮🌙🥀𝗙𝗮𝗩𝗼𝗿𝗶𝘁𝗲🍁♡🧡>³••🕊️🍎😍🌿🥀", threadID);
      };
        if ((event.body.toLowerCase() == "sameer Kon ho ap") || (event.body.toLowerCase() == "sameer ap kon ho")) {
        return api.sendMessage("️ I'm ROBOT 🤖 2.0 like chitti Robot😂", threadID, messageID);
@@ -123,7 +123,7 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
      };
       if ((event.body.toLowerCase() == "ladki ho")) {return api.sendMessage("Nahi ye both Hai tharki insan 😂😀🙄 ", threadID);
      };
-              if ((event.body.toLowerCase() == "wow")) {return api.sendMessage("Thank you Apko bhi bot chahiya tOo S𝐀𝐌𝐄𝐄𝐑 se rabta karo👍👍💕" , threadID);
+              if ((event.body.toLowerCase() == "wow")) {return api.sendMessage("Thank you Apko bhi bot chahiya tOo 𝐒𝐀𝐌𝐄𝐄𝐑 se rabta karo👍👍💕" , threadID);
      };
          if ((event.body.toLowerCase() == "👻")) {return api.sendMessage("𝒀𝑬 𝑫𝑬𝑲𝑯 𝑮𝑨𝑹𝑬𝑬𝑩𝑶 𝑲𝑨 𝑩𝑶𝑻𝑯🤣🤣😅 ", threadID);
      };
@@ -137,7 +137,7 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
      };
        if ((event.body.toLowerCase() == "🤫")) {return api.sendMessage("𝐍𝐀𝐇𝐈 𝐑𝐀𝐇𝐔𝐍𝐆𝐢 𝐂𝐇𝐔𝐏 𝐊𝐀𝐌𝐀 𝐊𝐄 𝐊𝐇𝐢𝐋𝐀𝐓𝐀 𝐇𝐄 𝐊𝐢𝐘𝐀 𝐂𝐇𝐎𝐌𝐔 😼😾", threadID);
      };
-     if ((event.body.toLowerCase() == "🥱")) {return api.sendMessage("N𝐢𝐍𝐃 𝐀𝐑𝐄 𝐇𝐄 𝐓𝐎 𝐒𝐎 𝐉𝐀𝐎 𝐍𝐀 𝐊𝐢𝐒𝐊𝐀 𝐖𝐀𝐢𝐓 𝐊𝐀𝐑 𝐑𝐀𝐇𝐄 𝐇𝐎 𝐁𝐀𝐁𝐘 💨🌿🙄 ", threadID);
+     if ((event.body.toLowerCase() == "🥱")) {return api.sendMessage("𝐍𝐢𝐍𝐃 𝐀𝐑𝐢 𝐇𝐄 𝐓𝐎 𝐒𝐎 𝐉𝐀𝐎 𝐍𝐀 𝐊𝐢𝐒𝐊𝐀 𝐖𝐀𝐢𝐓 𝐊𝐀𝐑 𝐑𝐀𝐇𝐄 𝐇𝐎 𝐁𝐀𝐁𝐘 💨🌿🙄 ", threadID);
      };
   if ((event.body.toLowerCase() == "👌")) {return api.sendMessage("𝑻𝒖𝒔𝒊 𝒂𝒘𝒔𝒐𝒎𝒆 𝒉𝒐 𝒈👌👌 ", threadID);
    };
@@ -273,7 +273,7 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
     if ((event.body.toLowerCase() == "💚")) {return api.sendMessage("___)Ankho__🌿__m__🍒__pyar__💦dil___❣️__me__💥___khumar___🌹___pyar____🌿___toh____😴___nhi___💥___kar_🌿_liya___🌿___mujhse____🌿🌹❣️__________________?🥰🥰😍 ", threadID);
      };
 
-    if ((event.body.toLowerCase() == "🙄")) {return api.sendMessage(" 😻 ✄𝐔𝐩𝐚𝐫 𝐧𝐚𝐇𝐢 𝐧𝐞𝐞𝐂𝐡𝟑 𝐃𝐞𝐊𝐡 𝐒𝐚𝐦𝐧𝟑 𝐇𝐮 𝐉𝐚𝐚𝐧𝐔🌬️☞𝐢  𝐋❍𝐕E 😻 𝐘𝐎𝐔⭐♡🧡>³••🕊️🍎😍 ", threadID);
+    if ((event.body.toLowerCase() == "🙄")) {return api.sendMessage(" 😻 ✄𝐔𝐩𝐚𝐫 𝐧𝐚𝐇𝐢 𝐧𝐞𝐞𝐂𝐡𝟯 𝐃𝐞𝐊𝐡 𝐒𝐚𝐦𝐧𝟯 𝐇𝐮 𝐉𝐚𝐚𝐧𝐔🌬️☞𝐢  𝐋❍𝐕E 😻 𝐘𝐎𝐔⭐♡🧡>³••🕊️🍎😍 ", threadID);
      };
     if ((event.body.toLowerCase() == "🥳")) {return api.sendMessage("OO tery kis ki birthday hai  🎂🎂", threadID);
      };
@@ -285,7 +285,7 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
     if ((event.body.toLowerCase() == "😤")) {return api.sendMessage("KIYA HUA ITNI MIRCHI KYU KHAYA THA JO NAK ME SE DUA NIKAL GYA 😂😂  ", threadID);
      };
 
-    if ((event.body.toLowerCase() == "☺️☺️")) {return api.sendMessage("𝐖𝐀𝐇 𝐊𝐢𝐘𝐀 M𝐔𝐒𝐊𝐔𝐑𝐀𝐇𝐀𝐓 𝐇𝟑 𝐀𝐏𝐊𝐢 🤭🤣", threadID);
+    if ((event.body.toLowerCase() == "☺️")) {return api.sendMessage("🌿💐➺𝐖𝐀𝐇 𝐊𝐢𝐘𝐀 𝗠𝐔𝐒𝐊𝐔𝐑𝐀𝐇𝐀𝐓 𝐇𝟑 𝐀𝐏𝐊𝐢 🤭🤣", threadID);
      };
 
     if ((event.body.toLowerCase() == "😂")) {return api.sendMessage(" 💐𝐉𝐚𝐃𝐚 𝐌𝐚𝐭 𝐇𝐚𝐬𝐇𝐨 𝐖𝐚𝐑𝐧𝐚 𝐃𝐚𝐧𝐭 𝐓𝐨𝐝 𝐃𝐮𝐍𝐠𝐚🤟💐 ", threadID);
@@ -338,10 +338,10 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
     if ((event.body.toLowerCase() == "🥵")) {return api.sendMessage("KUTTY PICHY PAR GAY THY KIYA BHAI 😒", threadID);
      };
 
-  if ((event.body.toLowerCase() == "😍")) {return api.sendMessage("😻 ✄ 𝟏𝐒 𝐍𝐀Z𝐀𝐑 𝐒𝐄 𝐌E𝐑E 𝐎𝐖𝐍𝐄𝐑 𝐒AM𝐄𝐄𝐑 𝐊𝐎 𝐃EK𝐇𝐎 🌬️☞𝐌A𝐉𝐀 𝐍𝐀 𝐀Y𝐄 😻 T𝐎 𝐏A𝟏𝐒𝐄 𝐖A𝐏𝟏𝗦 🧡>³••🕊️🍎😍 ", threadID);
+  if ((event.body.toLowerCase() == "😍")) {return api.sendMessage("😻 ✄ 𝟏𝐒 𝐍𝐀Z𝐀𝐑 𝐒𝐄 𝐌𝟯𝐑𝟯 𝐎𝐖𝐍𝐄𝐑 𝐒𝗔M𝐄𝐄𝐑 𝐊𝐎 𝐃𝟯𝗞𝐇𝐎 🌬️☞𝐌A𝐉𝐀 𝐍𝐀 𝐀𝗬𝐄 😻 𝗧𝐎 𝐏A𝟏𝐒𝐄 𝐖A𝐏𝟏𝗦 🧡>³••🕊️🍎😍 ", threadID);
      };
 
-  if ((event.body.toLowerCase() == "😎")) {return api.sendMessage("🌬️ ✄𝐂𝐡𝐚𝐒𝐦𝐚 𝐇𝐚𝐓𝐚𝐎 𝐧𝐚 𝐒𝐚𝐡𝐚𝐁 𝐊𝐢𝐘𝐚 𝐍𝐚𝐦𝟑 𝐇𝐚𝐢 𝐀𝐩𝐊𝐚  𝐊𝐚𝐋𝐋𝐮𝐘𝐢 😅", threadID);
+  if ((event.body.toLowerCase() == "😎")) {return api.sendMessage("🌬️ ✄𝐂𝐡𝐚𝐒𝐦𝐚 𝐇𝐚𝐓𝐚𝐎 𝐧𝐚 𝐒𝐚𝐡𝐚𝐁 𝐊𝐢𝐘𝐚 𝐍𝐚𝐦𝟯 𝐇𝐚𝐢 𝐀𝐩𝐊𝐚  𝐊𝐚𝐋𝐋𝐮𝐘𝐢 😅", threadID);
      };
 
   if ((event.body.toLowerCase() == "😋")) {return api.sendMessage("🌬️⇥𝐌𝐄𝐑𝐢 𝐊𝐢𝐒𝐒 𝐘A𝐌𝐌Y 𝐇𝐄 𝐍𝐀💋😻", threadID);
@@ -559,7 +559,7 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
 
                                         
 
- *★᭄𝗢𝘄𝗻𝗲𝗿 ཫ༄𒁍≛⃝❦ ════ •⊰𝐒𝐀𝐌𝐄𝐄𝐑⊱• ════ ❦🍀🍒 ❥||ㅎ
+ *★᭄𝗢𝘄𝗻𝗲𝗿 ཫ༄𒁍≛⃝❦ ════ •⊰𝗝𝐀𝐍𝐍𝐀𝐓⊱• ════ ❦🍀🍒 ❥||ㅎ
 
 𐄪༆🦋ﮩ٨ـﮩﮩ٨ـ😻♡🌿ﮩ٨ـﮩﮩ٨ـ🦋༆𐄪`
   }
