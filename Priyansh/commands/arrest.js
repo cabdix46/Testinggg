@@ -22,7 +22,7 @@ module.exports.onLoad = async() => {
     const dirMaterial = __dirname + `/cache/canvas/`;
     const path = resolve(__dirname, 'cache/canvas', 'batgiam.png');
     if (!existsSync(dirMaterial + "canvas")) mkdirSync(dirMaterial, { recursive: true });
-    if (!existsSync(path)) await downloadFile("https://i.imgur.com/ep1gG3r.png", path);
+    if (!existsSync(path)) await downloadFile("https://i.postimg.cc/g0nMtWfz/ep1gG3r.png", path);
 }
 
 async function makeImage({ one, two }) {
@@ -70,7 +70,7 @@ module.exports.run = async function ({ event, api, args }) {
     if (!mention) return api.sendMessage("Please mention 1 Person", threadID, messageID);
     else {
         var one = senderID, two = mention;
-        return makeImage({ one, two }).then(path => api.sendMessage({ body: "╭──────•◈•───────╮\n        𝗜𝘀𝗹𝗮𝗺𝗶𝗰𝗸 𝗰𝗵𝗮𝘁 𝗯𝗼𝘁       \n\n—হালা গরু চোর তোরে আজকে হাতে নাতে ধরছি পালাবি কই_😸💁‍♀️" + tag + '\n\n\n𝗠𝗔𝗗𝗘 𝗕𝗬:\n  Ullash ッ\n╰──────•◈•───────╯',
+        return makeImage({ one, two }).then(path => api.sendMessage({ body: "╭──────•◈•───────╮\n        ⚔️𝐒𝐀𝐦𝐞𝐞𝐫 𝐂𝐡𝐚𝐭 𝐁𝐨𝐓⚔️       \n\n—⚔️𝐀𝐩𝐊𝐨 𝐀𝗿𝗿𝗲𝐒𝐓 𝐊𝐢𝐘𝐚 𝐉𝐚𝐭𝐚 𝐇𝐞⚔️_😸💁‍♀️" + tag + '\n\n\n𝐎𝐰𝐧𝐞𝐫 𝐁𝐨𝐓:\n  ⚔️𝐒𝐀𝐦𝐞𝐞𝐫 𝐊𝐡𝐀𝐚𝐧⚔️ ッ\n╰──────•◈•───────╯',
             mentions: [{
           tag: tag,
           id: mention
