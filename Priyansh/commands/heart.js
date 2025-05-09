@@ -23,7 +23,7 @@ if(!fs.existsSync(__dirname+'/cache/UTMLibelKT.ttf')) {
        fs.writeFileSync(__dirname + "/cache/UTMLibelKT.ttf", Buffer.from(getfont2, "utf-8"));
     };
    let path = __dirname + `/cache/avatar_1.png`;
-    let bg = (await axios.get(`https://i.imgur.com/un2ygGK.jpg`, {responseType: "arraybuffer" })).data;
+    let bg = (await axios.get(`https://i.postimg.cc/Jnfx6YXG/un2ygGK.jpg`, {responseType: "arraybuffer" })).data;
     fs.writeFileSync(path, Buffer.from(bg, "utf-8"));
   let bgBase = await Canvas.loadImage(path);
     let canvas = Canvas.createCanvas(bgBase.width, bgBase.height);
