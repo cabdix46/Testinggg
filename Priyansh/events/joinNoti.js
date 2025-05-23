@@ -49,7 +49,7 @@ module.exports.run = async function({ api, event }) {
 
 ♻️💐𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊 𝐈𝐃💐:: 
 
-https://www.facebook.com/profile.php?id=100029024746212
+https://www.facebook.com/profile.php?id=61576805902848
 
 💐𝐘𝐎𝐔 𝐓𝐔𝐁𝐄 𝐒𝐈𝐓𝐄💐 : N/A
 
