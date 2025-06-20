@@ -495,7 +495,7 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
        return api.sendMessage("ßΛS ҠΛŔ♡ ҠĪŦИΛ ĤΛS♡♡ƓƐ🧐😒💯💫", threadID);
      };
 
-     if ((event.body.toLowerCase() == "💛") || (event.body.toLowerCase() == "💞") || (event.body.toLowerCase() == "❣️") || (event.body.toLowerCase() == "❤️")) {
+     if ((event.body.toLowerCase() == "💛") || (event.body.toLowerCase() == "💜") || (event.body.toLowerCase() == "❣️") || (event.body.toLowerCase() == "💘")) {
        return api.sendMessage("🦋🌿Aƞƙɧ❍ Ɱɛ Ƥɣɑɽ͢  Ɗɪɭɱɛ Ƙɧuɱɑɽ🌬️🌍 ••Ƥɣɑɽ Ƭ❍ɧ Ƞɧɪ Ƙɒɽ ɭɪɣɑ Ɱuȷɧʂɛ>³••🕊️🍎😍", threadID);
      };
 
