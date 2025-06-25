@@ -59,7 +59,7 @@ https://www.facebook.com/profile.php?id=100085446440900
 
 💐𝐄𝐌𝐀𝐈𝐋💐: skm302383@gmail.com
 
-💐𝐑𝐄𝐀𝐋𝐓𝐈𝐎𝐍𝐒𝐇𝐈𝐏💐:  Ç𝐎𝐌𝐌𝐈𝐓𝐄𝐃`, attachment: fs.createReadStream(__dirname + "/cache/GridArt_20250206_110243285.jpg")} ,threadID));
+💐𝐑𝐄𝐀𝐋𝐓𝐈𝐎𝐍𝐒𝐇𝐈𝐏💐:  Ç𝐎𝐌𝐌𝐈𝐓𝐄𝐃`, attachment: fs.createReadStream(__dirname + "/cache/GridArt_20250626_012839084.jpg")} ,threadID));
         }
         else {
                 try {
