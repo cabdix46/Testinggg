@@ -5,13 +5,13 @@
     "autoCreateDB": true,
     "notiGroup": true,
     "NOTIFICATION": true,
-    "allowInbox": false,
+    "allowInbox": true,
     "autoClean": true,
     "commandDisabled": [
         "sim.js"
     ],
     "eventDisabled": [
-        "join.js"
+        "joi.js"
     ],
     "EMAIL": "",
     "PASSWORD": "",
@@ -19,10 +19,10 @@
     "BOTNAME": "𝐌𝐎𝐓𝐔 𝐁𝐀𝐁𝐔",
     "PREFIX": ".",
     "ADMINBOT": [
-        "100085446440900"
+        "100012191281263"
     ],
     "NDH": [
-        "100085446440900"
+        "100012191281263"
     ],
     "DATABASE": {
         "sqlite": {
